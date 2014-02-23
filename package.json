@@ -31,7 +31,7 @@
   "license": "MIT",
   "dependencies": {
     "debug": "0.7.x",
-    "primus": "~2.x.x",
+    "primus": "git+https://github.com/Shopetti/primus.git",
     "primus-rooms": "3.x.x",
     "primus-emitter": "3.x.x",
     "primus-multiplex": "3.x.x"
